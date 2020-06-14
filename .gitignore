@@ -1,0 +1,7 @@
+composer.phar
+/vendor/
+/.idea
+
+data.scv
+
+composer.lock

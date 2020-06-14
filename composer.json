@@ -1,0 +1,11 @@
+{
+    "name": "literatura/rb-parser",
+    "description": "Parsing",
+    "autoload": {
+        "psr-4": {"RbParser\\": "src/"}
+    },
+    "require": {
+        "imangazaliev/didom": "^1.16",
+        "php-parallel-lint/PHP-Console-Color": "^0.3.0"
+    }
+}
